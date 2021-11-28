@@ -35,5 +35,5 @@ poetry run python3 main.py
 ```
 
 # How does it work?
-![md5-brute-force](./images/md5-bruteforce.png)
+![md5-brute-force](./images/md5-brute-force-image.png)
 
