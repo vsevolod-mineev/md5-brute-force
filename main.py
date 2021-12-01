@@ -51,7 +51,11 @@ class md5_cracker(object):
             return md5_cracker._attack(self, chrs, inp_usr);
         else:
             print("Error: Input is not an md5 hash.")
-            
+
+def entrypoint():
+    md5 = md5_cracker()
+    md5.main()
+
 if __name__ == "__main__":
     md5 = md5_cracker()
     md5.main()

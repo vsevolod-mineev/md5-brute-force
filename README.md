@@ -18,7 +18,7 @@ Clone this Github repository into your current directory before changing into it
 git clone https://github.com/vsevolod-mineev/md5-bruteforce
 ```
 ```
-cd md5-bruteforce/
+cd md5-brute-force/
 ```
 To install the defined dependencies for this project use:
 ```

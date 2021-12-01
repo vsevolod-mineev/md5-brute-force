@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "md5-brute-force"
-version = "0.3.0"
+version = "0.3.16"
 description = "Python script for brute forcing an md5 hash."
 readme = "README.md"
 authors = ["Vsevolod Mineev <vsevolod.mineev@gmail.com>"]
