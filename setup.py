@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(
     name='md5-brute-force',
-    version='0.3.16',
+    version='0.3.18',
     description="Python script for brute forcing an md5 hash.",
     long_description="",
     author='Vsevolod Mineev',
